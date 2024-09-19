@@ -25,7 +25,7 @@
 ✨ **Key Highlights:**
 
 - **Text Extraction**: Powered by **PyPDF**, **OpenCV**, and **EasyOCR** to handle various formats.
-- **Data Detection**: Implemented using **TrimTensorFlow** and **LeetModel** to identify and redact sensitive data.
+- **Data Detection**: Implemented using **Presidio Analyzer** and **PyTourch** to identify and redact sensitive data.
 - **In-Memory Processing**: All operations occur in memory, ensuring no sensitive data is stored during processing.
 - **User-Friendly Interface**: Built using **Streamlit**, the app provides an intuitive interface with easy file upload and download options.
 
