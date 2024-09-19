@@ -68,92 +68,6 @@ Here’s a simple overview of the process flow for redacting sensitive data:
 
 ## 🎥 **Demo Video**
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=your_video_link_here" target="_blank">
-    <img src="assets/video_thumbnail.png" alt="Watch the video" width="400px" />
-  </a>
-</p>
-
-Want to see the app in action? Check out our [Demo Video](https://www.youtube.com/watch?v=your_video_link_here).
-
----
-
-## 📝 **Presentation**
-
-Want to learn more? Check out our [Project Presentation](assets/Auto-Redaction_Presentation.pdf).
-
----
-
-<p align="center">
-  <img src="assets/logo.png" alt="Auto-Redaction Logo" width="150px"/>
-</p>
-
-<h1 align="center">🔒 Auto-Redaction Web App 🔒</h1>
-
-<p align="center">
-  <b>An Intelligent Redaction System to Protect Sensitive Data</b>  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built%20With-Streamlit-orange?style=for-the-badge" alt="Built with Streamlit"/>
-  <img src="https://img.shields.io/badge/OCR-TesseractOCR-red?style=for-the-badge" alt="OCR Tesseract"/>
-  <img src="https://img.shields.io/badge/PDF-PyPDF-blue?style=for-the-badge" alt="PDF with PyPDF"/>
-  <img src="https://img.shields.io/badge/Detection-PyTorch-purple?style=for-the-badge" alt="PyTorch Data Detection"/>
-  <img src="https://img.shields.io/badge/InMemory%20Processing-Secure-green?style=for-the-badge" alt="In Memory Processing"/>
-</p>
-
----
-
-## 🌟 **About the Project**
-
-🚀 The **Auto-Redaction Web App** is a state-of-the-art tool that allows users to **automatically redact sensitive information** in PDFs and images securely and efficiently. This tool utilizes **OCR technology** and **AI-based models** to ensure **privacy protection**, leveraging in-memory data processing to provide maximum security.
-
-✨ **Key Highlights:**
-
-- **Text Extraction**: Powered by **PyPDF**, **OpenCV**, and **TesseractOCR** to handle various formats.
-- **Data Detection**: Implemented using **PyTorch** and **Pseudo Analyzer** to identify and redact sensitive data.
-- **In-Memory Processing**: All operations occur in memory, ensuring no sensitive data is stored during processing.
-- **User-Friendly Interface**: Built using **Streamlit**, the app provides an intuitive interface with easy file upload and download options.
-
----
-
-## 🎬 **How It Works**
-
-<p align="center">
-  <img src="assets/flowchart.png" alt="How it works flowchart" width="600px"/>
-</p>
-
-Here’s a simple overview of the process flow for redacting sensitive data:
-
-1. **Upload Your File**: Upload your PDF or image that contains sensitive data.
-2. **Text & Data Detection**:
-   - **Text Extraction** using **TesseractOCR** for images and **PyPDF** for PDF files.
-   - **Sensitive Data Detection** using **PyTorch** and **Pseudo Analyzer** for identifying private or confidential information.
-3. **Auto-Redaction**: The system applies redaction over the detected data with color overlays.
-4. **Download the Redacted File**: Once processed, the system generates a link to download the redacted version of the file.
-
----
-
-## ⚙️ **Technologies & Tools**
-
-<p align="center">
-  <img src="assets/tech_stack.png" alt="Technology Stack" width="700px"/>
-</p>
-
-| **Technology**         | **Purpose**                    |
-| ---------------------- | ------------------------------ |
-| **Streamlit**           | Frontend & UI Framework        |
-| **TesseractOCR**        | Text Extraction from Images    |
-| **PyPDF**               | PDF Text Extraction            |
-| **OpenCV**              | Image Processing               |
-| **PyTorch**             | AI-based Sensitive Data Detection |
-| **Pseudo Analyzer**     | Advanced Data Analyzer for Redaction |
-| **In-Memory Processing**| Ensures Data Security          |
-
----
-
-## 🎥 **Demo Video**
-
 
 
 https://github.com/user-attachments/assets/493cb849-b345-4702-9c9c-5ed8a7d00df9
@@ -169,11 +83,23 @@ https://github.com/user-attachments/assets/493cb849-b345-4702-9c9c-5ed8a7d00df9
 </p>
 
 
-## 📝 **Presentation**
+## 📊 **Project Presentation**
 
-Want to learn more? Check out our [Project Presentation](assets/Auto-Redaction_Presentation.pdf).
+Explore our detailed project presentation below!
 
----
+<p align="center">
+  <a href="https://github.com/user-attachments/files/17063803/presentation.pdf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4c457fb5-cec0-4d99-bffc-5999246b7eaf" alt="Presentation Thumbnail" width="600" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/17063803/presentation.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Presentation-Download%20PDF-blue?style=for-the-badge" alt="Download Presentation"/>
+  </a>
+</p>
+
+
 
 ## 🛠 **Installation & Setup Guide**
 
@@ -237,9 +163,6 @@ pip install --upgrade <package_name>
 ```
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/018c6989-1b17-4f8d-a5ca-eb4a77b34d83" alt="Logo" width="150px"/>
-</p>
 
 
 ## 🚀 **SIH 2024 - Auto-Redaction Web App (Project ID: 6069)** 🚀
@@ -247,6 +170,11 @@ pip install --upgrade <package_name>
 We are an energetic and passionate team participating in **Smart India Hackathon 2024 (SIH 2024)** under the **Blockchain & Cybersecurity** category. With a shared goal of building a cutting-edge solution, we have combined our diverse skills and talents to develop an **Auto-Redaction Web App** that protects sensitive information through secure redaction.
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/018c6989-1b17-4f8d-a5ca-eb4a77b34d83" alt="Logo" width="150px"/>
+</p>
+
 
 ## 🌟 **Meet Our Incredible Team!** 🌟
 
