@@ -182,10 +182,10 @@ We are an energetic and passionate team participating in **Smart India Hackathon
 | ---------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 🧑‍💻 **Team Leader**        | **Syanjit Das**     | Leader of the project, managing development and overseeing team coordination. Developer for backend solutions. |
 | 👨‍💻 **Co-Leader & Tech Lead** | **Rohan Parveag**   | Main developer, in charge of implementing the technical core of the project. Hands-on with Streamlit, OCR, and AI-based models. |
-| 📝 **Content Writer (Co-Leader)** | **Isha Bishal**     | Co-Leader responsible for clear, concise, and creative content. Writes documentation, descriptions, and project summaries. |
-| 🎨 **Presentation Designer** | **Subhamay Pal**    | Creative lead for presentations, ensuring engaging and impactful slides. Finds references to support project work. |
-| 📊 **Researcher & Designer** | **Subhashish De**   | Works with Subhamay to design polished presentations and conduct research for references and project insights. |
-| ✍️ **Content Developer**  | **Sumit Pal**       | Develops tutorials and user-friendly guides. Ensures all technical aspects are explained clearly in the documentation. |
+| 📝 **Content Writer (Co-Leader)** | **Isha Bisal**     | Co-Leader responsible for clear, concise, and creative content. Writes documentation, descriptions, and project summaries. |
+| 🎨 **Presentation Designer** | **Subhamay Maity**    | Creative lead for presentations, ensuring engaging and impactful slides. Finds references to support project work. |
+| 📊 **Researcher & Designer** | **Subhashish Des**   | Works with Subhamay to design polished presentations and conduct research for references and project insights. |
+| ✍️ **Content Developer**  | **Sumit Bhunia**       | Develops tutorials and user-friendly guides. Ensures all technical aspects are explained clearly in the documentation. |
 
 ---
 
@@ -194,9 +194,9 @@ Our project is centered on creating a **fully automatic redaction system** that 
 
 - **Syanjit Das**: Leads the team with strong backend development. Ensures everything works securely and efficiently.
 - **Rohan Parveag**: The technical brain of the project, developing both the core functionalities and advanced features of the web app.
-- **Isha Bishal**: Writes compelling content, ensuring all documentation is clear, and the user experience is smooth.
-- **Subhamay Pal & Subhashish De**: These two bring the project to life with visually stunning presentations and well-researched materials to back up our work.
-- **Sumit Pal**: Ensures users understand the project with tutorials, guides, and easy-to-read documentation.
+- **Isha Bisal**: Writes compelling content, ensuring all documentation is clear, and the user experience is smooth.
+- **Subhamay Maity & Subhashish Das**: These two bring the project to life with visually stunning presentations and well-researched materials to back up our work.
+- **Sumit Bhunia**: Ensures users understand the project with tutorials, guides, and easy-to-read documentation.
 
 ---
 
@@ -216,13 +216,13 @@ We believe in the power of collaboration and innovation. Together, we are buildi
   <b>Syanjit Das</b>  
   <br>
   <img src="https://img.shields.io/badge/Co-Leader-orange?style=for-the-badge&logo=github" alt="Co-Leader"/>
-  <b>Sk Rohan Parveag</b> | <b>Isha Bishal</b>
+  <b>Sk Rohan Parveag</b> | <b>Isha Bisal</b>
   <br>
   <img src="https://img.shields.io/badge/Content%20Developer-red?style=for-the-badge&logo=github" alt="Content Developer"/>
-  <b>Sumit Pal</b>
+  <b>Sumit Bhunia</b>
   <br>
   <img src="https://img.shields.io/badge/Presentation%20Designers-purple?style=for-the-badge&logo=github" alt="Presentation Designers"/>
-  <b>Subhamay Pal</b> | <b>Subhashish De</b>
+  <b>Subhamay Maity</b> | <b>Subhashish Das</b>
 </p>
 
 ---
